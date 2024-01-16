@@ -37,7 +37,7 @@ struct HomePage {
 
   build() {
     Column() {
-      Text('首页页面112').fontSize(30)
+      Text('首页页面113').fontSize(30)
         .margin({
           top:"30%"
         })
