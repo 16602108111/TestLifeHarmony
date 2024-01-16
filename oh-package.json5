@@ -1,0 +1,40 @@
+{
+  "name": "yhlife",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6",
+
+    // 三方
+
+    //base
+    "BaseCell": "file:./module/base/BaseCell",
+    "BaseHttp": "file:./module/base/BaseHttp",
+    "BaseLog": "file:./module/base/BaseLog",
+
+    //kit
+    "KitApiService": "file:./module/kits/KitApiService",
+    "KitRouter": 'file:./module/kits/KitRouter',
+    "KitModuleService": 'file:./module/kits/KitModuleService',
+
+    //business
+    "BusStartService": 'file:./module/business/BusStartService',
+
+    //module
+    "FeaUserCenter": "file:./FeaUserCenter",
+    "FeaLifeMain": 'file:./FeaLifeMain',
+
+    //ui
+    "BaseUI": 'file:./BaseUI',
+    "BaseStyles": 'file:./ui-module/base/BaseStyles',
+    "BaseUIBus": 'file:./ui-module/business/BaseUIBus'
+
+
+
+  }
+}

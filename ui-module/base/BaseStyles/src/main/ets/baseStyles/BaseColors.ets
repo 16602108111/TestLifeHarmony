@@ -1,0 +1,38 @@
+
+
+// MARK: - 主题颜色 从iOS拷贝过来的
+export class BaseColors {
+  static Theme= "#FF1A34"
+  static SubTheme= "#FF4D60"
+  static WeakTheme= "#FFF2F4"
+  static SubRed= "#FF3819"
+  static SubGreen= "#28BF13"
+  static SubRegularGreen= "#8DD982"
+  static SubLightGreen= "#EDFFEB"
+  static SubYellow= "#FFAC1A"
+  static SubRegularYellow= "#FFEDCC"
+  static SubLightYellow= "#FFFAD9"
+  static SubBlack= "#000000"
+  static SubDarkBlack= "#222222"
+  static SubMediumBlack= "#333333"
+  static SubRegularBlack= "#666666"
+  static SubLightBlack= "#999999"
+  static SubGrey= "#CCCCCC"
+  static SubMediumGrey= "#DDDDDD"
+  static SubRegularGrey= "#EEEEEE"
+  static SubLightGrey= "#F6F6F6"
+  static SubWhite= "#FFFFFF"
+  static SubGold= "#FFEFC2"
+  static SuRegularPurple= "#C099FF"
+  static SubLightPurple= "#F7F2FF"
+  static RedGradientFrom= "#FF4055"
+  static RedGradientTo= "#FF1A34"
+  static BlackGradientFrom= "#403A41"
+  static BlackGradientTo= "#17161C"
+  static RedGrayGradientFrom= "#FF1A34"
+  static PurpleColorGradientFrom= "#8840FF"
+  static PurpleColorGradientTo= "#7119FF"
+  static PurpleColorBorder= "#711AFF"
+  static BlackF8= "#F9F9F9"
+
+}
