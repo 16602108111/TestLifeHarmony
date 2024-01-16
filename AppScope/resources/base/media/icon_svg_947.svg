@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="224px" height="896px" viewBox="0 0 224 896" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>072md-更多</title>
+    <g id="072md-更多" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M112,672 C173.6,672 224,722.4 224,784 C224,845.6 173.6,896 112,896 C50.4,896 0,845.6 0,784 C0,722.4 50.4,672 112,672 L112,672 Z M112,560 C50.4,560 0,509.6 0,448 C0,386.4 50.4,336 112,336 C173.6,336 224,386.4 224,448 C224,509.6 173.6,560 112,560 L112,560 Z M112,224 C50.4,224 0,173.6 0,112 C0,50.4 50.4,0 112,0 C173.6,0 224,50.4 224,112 C224,173.6 173.6,224 112,224 L112,224 Z" id="md-more" fill="#333333"></path>
+    </g>
+</svg>
