@@ -130,6 +130,18 @@
           ]
         }
       ]
+    },
+    {
+      "name": "FeaUserLogin",
+      "srcPath": "./FeaUserLogin",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
     }
   ]
 }

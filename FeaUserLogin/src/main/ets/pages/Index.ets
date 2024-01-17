@@ -1,9 +1,6 @@
-
-import { YHCheckBox } from 'BaseUI'
-
 @Entry
 @Component
-export struct Index {
+struct Index {
   @State message: string = 'Hello World'
 
   build() {

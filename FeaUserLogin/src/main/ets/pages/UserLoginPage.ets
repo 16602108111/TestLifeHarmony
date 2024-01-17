@@ -1,9 +1,9 @@
 import {Router} from 'KitRouter'
 import image from '@ohos.multimedia.image'
-import { YHCheckBox } from 'BaseUI'
-@Entry
+// import { YHCheckBox } from 'BaseUI'
+ @Entry
 @Component
-export  struct LoginPage {
+export  struct UserLoginPage {
   @State showClearIcon : boolean = false
   @State userPhoneName: string = ''
   @State checkState : boolean = false

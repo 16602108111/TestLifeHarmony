@@ -28,6 +28,7 @@
     //module
     "FeaUserCenter": "file:./FeaUserCenter",
     "FeaLifeMain": 'file:./FeaLifeMain',
+    "FeaUserLogin": 'file:./FeaUserLogin',
 
     //ui
     "BaseUI": 'file:./BaseUI',

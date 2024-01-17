@@ -8,11 +8,11 @@ struct SplashPage {
 
   aboutToAppear() {
     setTimeout(()=> {
-
+      console.log("Router.replaceUrl======333")
       Router.replaceUrl(LifeMainRouter.ModuleName,LifeMainRouter.PageOfMain).then((res) => {
-        console.log("")
+        console.log("Router.replaceUrl======111")
       }).catch((err) => {
-        console.log("")
+        console.log("Router.replaceUrl======2222"+err)
       })
 
       // 测试代码,用于页面ui的开发

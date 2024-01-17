@@ -4,8 +4,9 @@ import { registerModule } from 'KitModuleService'
 import {UserCenterService} from 'FeaUserCenter'
 import {LifeMainService} from 'FeaLifeMain'
 import {BaseUIService} from 'BaseUI'
+import { UserLoginService } from 'FeaUserLogin'
 
-import s from 'FeaUserCenter'
+// import s from 'FeaUserCenter'
 
 // 调用一些初始化的任务
 export function startInitModule () {
@@ -13,4 +14,5 @@ export function startInitModule () {
   registerModule(new UserCenterService())
   registerModule(new LifeMainService())
   registerModule(new BaseUIService())
+  registerModule(new UserLoginService())
 }
